@@ -10,7 +10,7 @@ This project implements an **end-to-end data engineering pipeline** using the **
 
 ```text
 MeetingBank_Project/
-├── MeetingBank.json               # Dataset
+├── Data                           # Dataset
 ├── README.md
 ├── .gitignore
 │

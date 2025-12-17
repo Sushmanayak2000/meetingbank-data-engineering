@@ -10,6 +10,13 @@ venv/
 # OS
 .DS_Store
 
-# Data (optional – important for big datasets)
-*.json
-*.csv
+# Data (ignore large datasets)
+data/*.json
+data/*.csv
+MeetingBank.json
+
+# Logs
+*.log
+
+# Others
+*.sqlite3

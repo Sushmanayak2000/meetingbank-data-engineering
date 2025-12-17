@@ -1,8 +1,9 @@
 import json
 from pymongo import MongoClient
+import os
 
-MEETINGBANK_JSON_PATH = "/Users/sushma/Documents/SRH Class Notes/Data Engneering/DE_Project/MeetingBank_Dataset/Metadata/MeetingBank.json"
-TARGET_CITIES = ["BostonCC", "SeattleCityCouncil"]
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+MEETINGBANK_JSON_PATH = os.path.join(BASE_DIR, "Data", "MeetingBank.json")
 
 print("Connecting to MongoDB...")
 
