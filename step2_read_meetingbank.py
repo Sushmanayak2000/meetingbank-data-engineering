@@ -2,6 +2,9 @@ import json
 import os
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+OUTPUT_DIR = os.path.join(BASE_DIR, "Data", "Processed_Data")
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+OUTPUT_JSON_PATH = os.path.join(OUTPUT_DIR, "meeting_summary.json")
 MEETINGBANK_JSON_PATH = os.path.join(BASE_DIR, "Data", "MeetingBank.json")
 
 TARGET_CITIES = ["BostonCC", "SeattleCityCouncil"]
@@ -47,3 +50,10 @@ if __name__ == "__main__":
     print("\nSample records:")
     for m in meetings[:5]:
         print(m)
+
+    # Save filtered data to JSONwith open(OUTPUT_JSON_PATH, "w", encoding="utf-8") as f:
+        
+    with open(OUTPUT_JSON_PATH, "w", encoding="utf-8") as f:
+        json.dump(meetings, f, indent=2, ensure_ascii=False)
+
+    print(f"\nFile saved at: {OUTPUT_JSON_PATH}")

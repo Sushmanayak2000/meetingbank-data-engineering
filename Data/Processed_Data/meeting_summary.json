@@ -1,0 +1,2270 @@
+[
+  {
+    "meeting_id": "SeattleCityCouncil_12142015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 12436,
+    "item_count": 14,
+    "segment_count": 654
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_12072015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4853,
+    "item_count": 13,
+    "segment_count": 277
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_11162015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 910,
+    "item_count": 1,
+    "segment_count": 15
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_11092015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4302,
+    "item_count": 2,
+    "segment_count": 54
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_10262015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1417,
+    "item_count": 2,
+    "segment_count": 66
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_10192015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3006,
+    "item_count": 3,
+    "segment_count": 123
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_10122015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3686,
+    "item_count": 5,
+    "segment_count": 114
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09282015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6308,
+    "item_count": 7,
+    "segment_count": 172
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09212015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6427,
+    "item_count": 15,
+    "segment_count": 253
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09142015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2800,
+    "item_count": 1,
+    "segment_count": 59
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09082015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5984,
+    "item_count": 12,
+    "segment_count": 185
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_08172015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5855,
+    "item_count": 10,
+    "segment_count": 207
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_08102015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6310,
+    "item_count": 6,
+    "segment_count": 93
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07272015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2908,
+    "item_count": 9,
+    "segment_count": 137
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07202015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3033,
+    "item_count": 4,
+    "segment_count": 62
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07132015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4621,
+    "item_count": 5,
+    "segment_count": 125
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06292015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3627,
+    "item_count": 5,
+    "segment_count": 210
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06222015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4390,
+    "item_count": 4,
+    "segment_count": 132
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06152015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 655,
+    "item_count": 1,
+    "segment_count": 15
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06082015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2310,
+    "item_count": 4,
+    "segment_count": 48
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05262015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2400,
+    "item_count": 3,
+    "segment_count": 80
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05042015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3651,
+    "item_count": 4,
+    "segment_count": 76
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04202015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3148,
+    "item_count": 3,
+    "segment_count": 54
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04132015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4009,
+    "item_count": 3,
+    "segment_count": 64
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04062015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3220,
+    "item_count": 4,
+    "segment_count": 75
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03232015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3150,
+    "item_count": 3,
+    "segment_count": 96
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03162015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1835,
+    "item_count": 2,
+    "segment_count": 30
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03022015",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2785,
+    "item_count": 2,
+    "segment_count": 41
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_12162016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5264,
+    "item_count": 12,
+    "segment_count": 323
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_12122016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6700,
+    "item_count": 5,
+    "segment_count": 229
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_11212016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6461,
+    "item_count": 9,
+    "segment_count": 299
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_11142016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1548,
+    "item_count": 1,
+    "segment_count": 27
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_10312016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1694,
+    "item_count": 1,
+    "segment_count": 28
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_10172016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 8248,
+    "item_count": 5,
+    "segment_count": 391
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_10102016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3031,
+    "item_count": 3,
+    "segment_count": 139
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_10032016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4598,
+    "item_count": 12,
+    "segment_count": 173
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09262016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 9761,
+    "item_count": 15,
+    "segment_count": 286
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09192016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5110,
+    "item_count": 5,
+    "segment_count": 126
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09122016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 8142,
+    "item_count": 10,
+    "segment_count": 317
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09062016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 7365,
+    "item_count": 8,
+    "segment_count": 102
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_08152016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 10360,
+    "item_count": 8,
+    "segment_count": 409
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_08082016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6337,
+    "item_count": 12,
+    "segment_count": 347
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_08012016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3397,
+    "item_count": 3,
+    "segment_count": 70
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07252016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 7676,
+    "item_count": 12,
+    "segment_count": 290
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07182016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4322,
+    "item_count": 1,
+    "segment_count": 13
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06272016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3631,
+    "item_count": 3,
+    "segment_count": 82
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06202016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2421,
+    "item_count": 6,
+    "segment_count": 87
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06132016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4537,
+    "item_count": 3,
+    "segment_count": 59
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06062016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5266,
+    "item_count": 8,
+    "segment_count": 144
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05312016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6274,
+    "item_count": 4,
+    "segment_count": 251
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05232016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3109,
+    "item_count": 7,
+    "segment_count": 181
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05162016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2039,
+    "item_count": 4,
+    "segment_count": 75
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05092016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1394,
+    "item_count": 3,
+    "segment_count": 41
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05022016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 9062,
+    "item_count": 4,
+    "segment_count": 385
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04252016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3045,
+    "item_count": 6,
+    "segment_count": 152
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04182016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 963,
+    "item_count": 1,
+    "segment_count": 12
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04112016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2475,
+    "item_count": 4,
+    "segment_count": 47
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04042016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 868,
+    "item_count": 2,
+    "segment_count": 28
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03282016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2082,
+    "item_count": 2,
+    "segment_count": 47
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03142016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6272,
+    "item_count": 5,
+    "segment_count": 237
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03072016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2455,
+    "item_count": 5,
+    "segment_count": 60
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02292016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2486,
+    "item_count": 2,
+    "segment_count": 43
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02222016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2576,
+    "item_count": 1,
+    "segment_count": 9
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02162016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 8254,
+    "item_count": 2,
+    "segment_count": 183
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02082016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3214,
+    "item_count": 6,
+    "segment_count": 60
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02012016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2705,
+    "item_count": 2,
+    "segment_count": 16
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_01112016",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 7438,
+    "item_count": 6,
+    "segment_count": 288
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_12112017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 8760,
+    "item_count": 16,
+    "segment_count": 354
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_12042017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 8479,
+    "item_count": 7,
+    "segment_count": 356
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_11272017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1918,
+    "item_count": 1,
+    "segment_count": 29
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_11202017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 10595,
+    "item_count": 14,
+    "segment_count": 536
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_11132017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 8728,
+    "item_count": 6,
+    "segment_count": 301
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_10232017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2170,
+    "item_count": 1,
+    "segment_count": 10
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_10022017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6065,
+    "item_count": 10,
+    "segment_count": 190
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09252017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6513,
+    "item_count": 7,
+    "segment_count": 82
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09182017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6241,
+    "item_count": 9,
+    "segment_count": 173
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09112017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4863,
+    "item_count": 5,
+    "segment_count": 127
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09052017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3889,
+    "item_count": 5,
+    "segment_count": 102
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_08142017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6041,
+    "item_count": 5,
+    "segment_count": 243
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_08072017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5265,
+    "item_count": 10,
+    "segment_count": 209
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07312017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6335,
+    "item_count": 5,
+    "segment_count": 230
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07242017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4564,
+    "item_count": 10,
+    "segment_count": 157
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07172017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3161,
+    "item_count": 9,
+    "segment_count": 171
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07102017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6357,
+    "item_count": 5,
+    "segment_count": 234
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06192017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3338,
+    "item_count": 6,
+    "segment_count": 101
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06122017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5076,
+    "item_count": 2,
+    "segment_count": 71
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06052017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6018,
+    "item_count": 1,
+    "segment_count": 165
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05302017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5210,
+    "item_count": 3,
+    "segment_count": 142
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05222017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 8349,
+    "item_count": 6,
+    "segment_count": 300
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05152017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1917,
+    "item_count": 1,
+    "segment_count": 8
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04172017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5437,
+    "item_count": 5,
+    "segment_count": 120
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04102017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5524,
+    "item_count": 6,
+    "segment_count": 187
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04032017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5116,
+    "item_count": 2,
+    "segment_count": 185
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03272017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5567,
+    "item_count": 4,
+    "segment_count": 106
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03202017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2360,
+    "item_count": 2,
+    "segment_count": 59
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03062017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4828,
+    "item_count": 3,
+    "segment_count": 38
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02272017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4391,
+    "item_count": 2,
+    "segment_count": 142
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02212017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 9305,
+    "item_count": 10,
+    "segment_count": 402
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02132017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1721,
+    "item_count": 2,
+    "segment_count": 57
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02072017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6672,
+    "item_count": 2,
+    "segment_count": 184
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_01172017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2487,
+    "item_count": 1,
+    "segment_count": 8
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_01092017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4713,
+    "item_count": 3,
+    "segment_count": 84
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_01032017",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1218,
+    "item_count": 1,
+    "segment_count": 8
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_12172018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4357,
+    "item_count": 10,
+    "segment_count": 231
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_12102018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4645,
+    "item_count": 6,
+    "segment_count": 157
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_12032018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1766,
+    "item_count": 2,
+    "segment_count": 27
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_11262018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 901,
+    "item_count": 1,
+    "segment_count": 30
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_11192018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4557,
+    "item_count": 10,
+    "segment_count": 291
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_11132018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 10133,
+    "item_count": 3,
+    "segment_count": 315
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_10292018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4165,
+    "item_count": 4,
+    "segment_count": 149
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_10222018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1363,
+    "item_count": 2,
+    "segment_count": 37
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_10012018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5833,
+    "item_count": 4,
+    "segment_count": 147
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09242018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 7976,
+    "item_count": 16,
+    "segment_count": 353
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09172018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6100,
+    "item_count": 5,
+    "segment_count": 141
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09102018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1791,
+    "item_count": 2,
+    "segment_count": 24
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09042018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2122,
+    "item_count": 3,
+    "segment_count": 36
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_08132018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 9802,
+    "item_count": 7,
+    "segment_count": 375
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_08062018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 8819,
+    "item_count": 9,
+    "segment_count": 267
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07302018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 7045,
+    "item_count": 8,
+    "segment_count": 274
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07232018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6008,
+    "item_count": 5,
+    "segment_count": 179
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07092018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6237,
+    "item_count": 6,
+    "segment_count": 314
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06252018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6122,
+    "item_count": 8,
+    "segment_count": 252
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06182018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6145,
+    "item_count": 4,
+    "segment_count": 377
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06112018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2509,
+    "item_count": 5,
+    "segment_count": 38
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06042018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1020,
+    "item_count": 3,
+    "segment_count": 41
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05292018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2936,
+    "item_count": 4,
+    "segment_count": 53
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05212018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 7413,
+    "item_count": 5,
+    "segment_count": 252
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05142018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 10052,
+    "item_count": 4,
+    "segment_count": 492
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05072018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3879,
+    "item_count": 1,
+    "segment_count": 28
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04302018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5831,
+    "item_count": 3,
+    "segment_count": 90
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04232018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3046,
+    "item_count": 6,
+    "segment_count": 151
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04092018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5218,
+    "item_count": 6,
+    "segment_count": 168
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04022018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6702,
+    "item_count": 2,
+    "segment_count": 152
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03262018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4508,
+    "item_count": 2,
+    "segment_count": 67
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03192018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4412,
+    "item_count": 7,
+    "segment_count": 109
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03122018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3705,
+    "item_count": 4,
+    "segment_count": 100
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03052018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1149,
+    "item_count": 1,
+    "segment_count": 12
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02262018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4989,
+    "item_count": 2,
+    "segment_count": 136
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02202018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5334,
+    "item_count": 6,
+    "segment_count": 164
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02122018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3467,
+    "item_count": 5,
+    "segment_count": 66
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02052018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1721,
+    "item_count": 1,
+    "segment_count": 15
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_01292018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 7165,
+    "item_count": 3,
+    "segment_count": 190
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_01222018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1999,
+    "item_count": 3,
+    "segment_count": 77
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_01162018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2874,
+    "item_count": 5,
+    "segment_count": 94
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_01022018",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2802,
+    "item_count": 8,
+    "segment_count": 91
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_11252019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 11159,
+    "item_count": 13,
+    "segment_count": 547
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_11182019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1366,
+    "item_count": 2,
+    "segment_count": 55
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_10212019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4282,
+    "item_count": 1,
+    "segment_count": 199
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_10142019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 966,
+    "item_count": 4,
+    "segment_count": 48
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_10072019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 7448,
+    "item_count": 3,
+    "segment_count": 354
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09302019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6585,
+    "item_count": 13,
+    "segment_count": 221
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09232019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 13779,
+    "item_count": 10,
+    "segment_count": 1753
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09162019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 11607,
+    "item_count": 17,
+    "segment_count": 654
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09092019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3507,
+    "item_count": 2,
+    "segment_count": 72
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09032019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6364,
+    "item_count": 12,
+    "segment_count": 283
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_08052019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3222,
+    "item_count": 10,
+    "segment_count": 188
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07292019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 317,
+    "item_count": 1,
+    "segment_count": 13
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07222019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 7458,
+    "item_count": 8,
+    "segment_count": 330
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07152019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3648,
+    "item_count": 2,
+    "segment_count": 103
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07082019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1033,
+    "item_count": 2,
+    "segment_count": 22
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07012019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 8866,
+    "item_count": 6,
+    "segment_count": 342
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06242019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5999,
+    "item_count": 4,
+    "segment_count": 91
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06172019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 805,
+    "item_count": 1,
+    "segment_count": 20
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06102019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 7231,
+    "item_count": 5,
+    "segment_count": 264
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06032019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1983,
+    "item_count": 5,
+    "segment_count": 82
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05282019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3311,
+    "item_count": 9,
+    "segment_count": 202
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05202019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3802,
+    "item_count": 2,
+    "segment_count": 38
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05132019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2282,
+    "item_count": 2,
+    "segment_count": 98
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04292019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2770,
+    "item_count": 4,
+    "segment_count": 75
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04222019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 7966,
+    "item_count": 7,
+    "segment_count": 231
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04152019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2283,
+    "item_count": 2,
+    "segment_count": 60
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04012019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3806,
+    "item_count": 4,
+    "segment_count": 47
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03252019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2482,
+    "item_count": 6,
+    "segment_count": 67
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03182019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 10781,
+    "item_count": 9,
+    "segment_count": 436
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03112019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1763,
+    "item_count": 4,
+    "segment_count": 43
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03042019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 9119,
+    "item_count": 6,
+    "segment_count": 276
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02252019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1961,
+    "item_count": 1,
+    "segment_count": 8
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02192019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3100,
+    "item_count": 6,
+    "segment_count": 105
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02042019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3514,
+    "item_count": 4,
+    "segment_count": 136
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_01282019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 7547,
+    "item_count": 5,
+    "segment_count": 249
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_01142019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2800,
+    "item_count": 2,
+    "segment_count": 82
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_01072019",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1841,
+    "item_count": 4,
+    "segment_count": 75
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_12142020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 11961,
+    "item_count": 9,
+    "segment_count": 509
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_12072020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3366,
+    "item_count": 11,
+    "segment_count": 131
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_11302020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1524,
+    "item_count": 1,
+    "segment_count": 16
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_11232020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 10693,
+    "item_count": 9,
+    "segment_count": 888
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_11092020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1937,
+    "item_count": 2,
+    "segment_count": 47
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_11022020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3107,
+    "item_count": 2,
+    "segment_count": 87
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_10262020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3230,
+    "item_count": 1,
+    "segment_count": 142
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_10192020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2536,
+    "item_count": 2,
+    "segment_count": 37
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_10052020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4240,
+    "item_count": 8,
+    "segment_count": 268
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09292020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 7948,
+    "item_count": 10,
+    "segment_count": 401
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09212020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 7660,
+    "item_count": 14,
+    "segment_count": 352
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09142020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2692,
+    "item_count": 4,
+    "segment_count": 129
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09082020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 10515,
+    "item_count": 8,
+    "segment_count": 353
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_08172020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 8348,
+    "item_count": 12,
+    "segment_count": 363
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_08102020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 12524,
+    "item_count": 16,
+    "segment_count": 764
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07272020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 11568,
+    "item_count": 5,
+    "segment_count": 528
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07202020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 8738,
+    "item_count": 5,
+    "segment_count": 486
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07132020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3267,
+    "item_count": 4,
+    "segment_count": 125
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07062020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 11107,
+    "item_count": 4,
+    "segment_count": 508
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06222020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5444,
+    "item_count": 3,
+    "segment_count": 158
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06152020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 11384,
+    "item_count": 4,
+    "segment_count": 455
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06082020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 9162,
+    "item_count": 2,
+    "segment_count": 146
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06012020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 7265,
+    "item_count": 2,
+    "segment_count": 217
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05262020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3738,
+    "item_count": 2,
+    "segment_count": 56
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05182020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6229,
+    "item_count": 3,
+    "segment_count": 137
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05112020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6126,
+    "item_count": 3,
+    "segment_count": 221
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05042020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 11306,
+    "item_count": 4,
+    "segment_count": 561
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04272020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 9107,
+    "item_count": 2,
+    "segment_count": 296
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04202020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 8458,
+    "item_count": 2,
+    "segment_count": 327
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04132020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2552,
+    "item_count": 3,
+    "segment_count": 187
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04062020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3496,
+    "item_count": 1,
+    "segment_count": 60
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03302020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6018,
+    "item_count": 5,
+    "segment_count": 459
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03232020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2400,
+    "item_count": 1,
+    "segment_count": 98
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03192020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2623,
+    "item_count": 2,
+    "segment_count": 228
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03162020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 9581,
+    "item_count": 2,
+    "segment_count": 97
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03092020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6922,
+    "item_count": 2,
+    "segment_count": 74
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03022020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3402,
+    "item_count": 5,
+    "segment_count": 67
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02242020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3137,
+    "item_count": 4,
+    "segment_count": 48
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02182020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 7883,
+    "item_count": 2,
+    "segment_count": 325
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02102020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 7904,
+    "item_count": 2,
+    "segment_count": 352
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02032020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6299,
+    "item_count": 2,
+    "segment_count": 132
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_01212020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 7263,
+    "item_count": 3,
+    "segment_count": 171
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_01132020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2936,
+    "item_count": 3,
+    "segment_count": 72
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_01062020",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6325,
+    "item_count": 3,
+    "segment_count": 65
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07262022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6201,
+    "item_count": 6,
+    "segment_count": 162
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07192022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5339,
+    "item_count": 8,
+    "segment_count": 222
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07142022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5662,
+    "item_count": 4,
+    "segment_count": 211
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07122022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4060,
+    "item_count": 4,
+    "segment_count": 127
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07052022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5296,
+    "item_count": 4,
+    "segment_count": 139
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06282022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4778,
+    "item_count": 9,
+    "segment_count": 231
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06212022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4134,
+    "item_count": 5,
+    "segment_count": 102
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06142022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3661,
+    "item_count": 5,
+    "segment_count": 111
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06072022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2595,
+    "item_count": 1,
+    "segment_count": 19
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05312022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 7356,
+    "item_count": 2,
+    "segment_count": 239
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05242022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 8947,
+    "item_count": 13,
+    "segment_count": 455
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05172022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2191,
+    "item_count": 3,
+    "segment_count": 69
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05102022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4407,
+    "item_count": 1,
+    "segment_count": 129
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05032022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4470,
+    "item_count": 2,
+    "segment_count": 40
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04262022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3930,
+    "item_count": 3,
+    "segment_count": 86
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04122022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1932,
+    "item_count": 4,
+    "segment_count": 48
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03292022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3307,
+    "item_count": 5,
+    "segment_count": 173
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03222022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 819,
+    "item_count": 1,
+    "segment_count": 24
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03152022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1916,
+    "item_count": 3,
+    "segment_count": 59
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03012022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4055,
+    "item_count": 6,
+    "segment_count": 197
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02222022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 7999,
+    "item_count": 3,
+    "segment_count": 194
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02152022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4077,
+    "item_count": 2,
+    "segment_count": 31
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02082022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4885,
+    "item_count": 2,
+    "segment_count": 227
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02012022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2273,
+    "item_count": 3,
+    "segment_count": 46
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_01252022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3638,
+    "item_count": 2,
+    "segment_count": 115
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_01042022",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4493,
+    "item_count": 4,
+    "segment_count": 122
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_12132021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 13296,
+    "item_count": 22,
+    "segment_count": 532
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_12062021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2532,
+    "item_count": 7,
+    "segment_count": 123
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_11292021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1106,
+    "item_count": 3,
+    "segment_count": 50
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_11222021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 10014,
+    "item_count": 30,
+    "segment_count": 484
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_11152021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3897,
+    "item_count": 4,
+    "segment_count": 116
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_10112021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2294,
+    "item_count": 1,
+    "segment_count": 39
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_10042021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 7547,
+    "item_count": 7,
+    "segment_count": 288
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09272021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 11302,
+    "item_count": 5,
+    "segment_count": 260
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09202021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 14266,
+    "item_count": 13,
+    "segment_count": 707
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_09132021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 12643,
+    "item_count": 9,
+    "segment_count": 500
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_08162021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6397,
+    "item_count": 6,
+    "segment_count": 230
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_08092021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 8012,
+    "item_count": 18,
+    "segment_count": 372
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_08022021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5823,
+    "item_count": 5,
+    "segment_count": 122
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07262021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 7016,
+    "item_count": 5,
+    "segment_count": 118
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07192021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4623,
+    "item_count": 5,
+    "segment_count": 213
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_07122021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4334,
+    "item_count": 5,
+    "segment_count": 132
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06282021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6429,
+    "item_count": 4,
+    "segment_count": 233
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06212021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6014,
+    "item_count": 6,
+    "segment_count": 240
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06142021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5902,
+    "item_count": 6,
+    "segment_count": 283
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06072021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 9609,
+    "item_count": 5,
+    "segment_count": 414
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_06012021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 11662,
+    "item_count": 8,
+    "segment_count": 403
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05242021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 9027,
+    "item_count": 12,
+    "segment_count": 325
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05172021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 7377,
+    "item_count": 4,
+    "segment_count": 93
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05102021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5187,
+    "item_count": 11,
+    "segment_count": 234
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_05032021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 2623,
+    "item_count": 3,
+    "segment_count": 53
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04262021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5039,
+    "item_count": 3,
+    "segment_count": 120
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_04192021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4190,
+    "item_count": 8,
+    "segment_count": 148
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03292021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 10334,
+    "item_count": 3,
+    "segment_count": 361
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03222021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3574,
+    "item_count": 6,
+    "segment_count": 182
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03152021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 8582,
+    "item_count": 3,
+    "segment_count": 163
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03082021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3657,
+    "item_count": 4,
+    "segment_count": 112
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_03012021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4041,
+    "item_count": 3,
+    "segment_count": 92
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02222021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1984,
+    "item_count": 3,
+    "segment_count": 53
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02162021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4333,
+    "item_count": 4,
+    "segment_count": 111
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02082021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1934,
+    "item_count": 1,
+    "segment_count": 20
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_02012021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 6168,
+    "item_count": 6,
+    "segment_count": 212
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_01252021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 5875,
+    "item_count": 2,
+    "segment_count": 167
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_01192021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 4605,
+    "item_count": 1,
+    "segment_count": 23
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_01112021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 3194,
+    "item_count": 1,
+    "segment_count": 74
+  },
+  {
+    "meeting_id": "SeattleCityCouncil_01042021",
+    "city": "SeattleCityCouncil",
+    "video_duration_sec": 1808,
+    "item_count": 5,
+    "segment_count": 85
+  },
+  {
+    "meeting_id": "BostonCC_08102022",
+    "city": "BostonCC",
+    "video_duration_sec": 12297,
+    "item_count": 17,
+    "segment_count": 457
+  },
+  {
+    "meeting_id": "BostonCC_06292022",
+    "city": "BostonCC",
+    "video_duration_sec": 26145,
+    "item_count": 16,
+    "segment_count": 861
+  },
+  {
+    "meeting_id": "BostonCC_06152022",
+    "city": "BostonCC",
+    "video_duration_sec": 8330,
+    "item_count": 9,
+    "segment_count": 349
+  },
+  {
+    "meeting_id": "BostonCC_06082022",
+    "city": "BostonCC",
+    "video_duration_sec": 14477,
+    "item_count": 15,
+    "segment_count": 700
+  },
+  {
+    "meeting_id": "BostonCC_05252022",
+    "city": "BostonCC",
+    "video_duration_sec": 4407,
+    "item_count": 6,
+    "segment_count": 149
+  },
+  {
+    "meeting_id": "BostonCC_05182022",
+    "city": "BostonCC",
+    "video_duration_sec": 9804,
+    "item_count": 12,
+    "segment_count": 488
+  },
+  {
+    "meeting_id": "BostonCC_05112022",
+    "city": "BostonCC",
+    "video_duration_sec": 5775,
+    "item_count": 8,
+    "segment_count": 246
+  },
+  {
+    "meeting_id": "BostonCC_05042022",
+    "city": "BostonCC",
+    "video_duration_sec": 7782,
+    "item_count": 8,
+    "segment_count": 362
+  },
+  {
+    "meeting_id": "BostonCC_04272022",
+    "city": "BostonCC",
+    "video_duration_sec": 9739,
+    "item_count": 9,
+    "segment_count": 205
+  },
+  {
+    "meeting_id": "BostonCC_04132022",
+    "city": "BostonCC",
+    "video_duration_sec": 11010,
+    "item_count": 15,
+    "segment_count": 456
+  },
+  {
+    "meeting_id": "BostonCC_04062022",
+    "city": "BostonCC",
+    "video_duration_sec": 4621,
+    "item_count": 7,
+    "segment_count": 205
+  },
+  {
+    "meeting_id": "BostonCC_03302022",
+    "city": "BostonCC",
+    "video_duration_sec": 11611,
+    "item_count": 9,
+    "segment_count": 440
+  },
+  {
+    "meeting_id": "BostonCC_03232022",
+    "city": "BostonCC",
+    "video_duration_sec": 4909,
+    "item_count": 4,
+    "segment_count": 87
+  },
+  {
+    "meeting_id": "BostonCC_03162022",
+    "city": "BostonCC",
+    "video_duration_sec": 8097,
+    "item_count": 8,
+    "segment_count": 189
+  },
+  {
+    "meeting_id": "BostonCC_03092022",
+    "city": "BostonCC",
+    "video_duration_sec": 5310,
+    "item_count": 3,
+    "segment_count": 60
+  },
+  {
+    "meeting_id": "BostonCC_03022022",
+    "city": "BostonCC",
+    "video_duration_sec": 9818,
+    "item_count": 10,
+    "segment_count": 372
+  },
+  {
+    "meeting_id": "BostonCC_02162022",
+    "city": "BostonCC",
+    "video_duration_sec": 7632,
+    "item_count": 10,
+    "segment_count": 236
+  },
+  {
+    "meeting_id": "BostonCC_02092022",
+    "city": "BostonCC",
+    "video_duration_sec": 5020,
+    "item_count": 5,
+    "segment_count": 127
+  },
+  {
+    "meeting_id": "BostonCC_02022022",
+    "city": "BostonCC",
+    "video_duration_sec": 10228,
+    "item_count": 14,
+    "segment_count": 587
+  },
+  {
+    "meeting_id": "BostonCC_01262022",
+    "city": "BostonCC",
+    "video_duration_sec": 14573,
+    "item_count": 16,
+    "segment_count": 374
+  },
+  {
+    "meeting_id": "BostonCC_01032022",
+    "city": "BostonCC",
+    "video_duration_sec": 2710,
+    "item_count": 1,
+    "segment_count": 27
+  },
+  {
+    "meeting_id": "BostonCC_12152021",
+    "city": "BostonCC",
+    "video_duration_sec": 16638,
+    "item_count": 10,
+    "segment_count": 227
+  },
+  {
+    "meeting_id": "BostonCC_12082021",
+    "city": "BostonCC",
+    "video_duration_sec": 3890,
+    "item_count": 7,
+    "segment_count": 133
+  },
+  {
+    "meeting_id": "BostonCC_12012021",
+    "city": "BostonCC",
+    "video_duration_sec": 5335,
+    "item_count": 8,
+    "segment_count": 189
+  },
+  {
+    "meeting_id": "BostonCC_11172021",
+    "city": "BostonCC",
+    "video_duration_sec": 7437,
+    "item_count": 14,
+    "segment_count": 204
+  },
+  {
+    "meeting_id": "BostonCC_11032021",
+    "city": "BostonCC",
+    "video_duration_sec": 3034,
+    "item_count": 3,
+    "segment_count": 33
+  },
+  {
+    "meeting_id": "BostonCC_10272021",
+    "city": "BostonCC",
+    "video_duration_sec": 3198,
+    "item_count": 5,
+    "segment_count": 110
+  },
+  {
+    "meeting_id": "BostonCC_10202021",
+    "city": "BostonCC",
+    "video_duration_sec": 7800,
+    "item_count": 17,
+    "segment_count": 325
+  },
+  {
+    "meeting_id": "BostonCC_10062021",
+    "city": "BostonCC",
+    "video_duration_sec": 5520,
+    "item_count": 7,
+    "segment_count": 140
+  },
+  {
+    "meeting_id": "BostonCC_09292021",
+    "city": "BostonCC",
+    "video_duration_sec": 4653,
+    "item_count": 5,
+    "segment_count": 123
+  },
+  {
+    "meeting_id": "BostonCC_09222021",
+    "city": "BostonCC",
+    "video_duration_sec": 4479,
+    "item_count": 12,
+    "segment_count": 219
+  },
+  {
+    "meeting_id": "BostonCC_09152021",
+    "city": "BostonCC",
+    "video_duration_sec": 5169,
+    "item_count": 9,
+    "segment_count": 139
+  }
+]

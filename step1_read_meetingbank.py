@@ -1,8 +1,11 @@
 import json
-import os
+import os #Used to work with file paths
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+
 MEETINGBANK_JSON_PATH = os.path.join(BASE_DIR, "Data", "MeetingBank.json")
+
 
 def read_meetingbank():
     with open(MEETINGBANK_JSON_PATH, "r", encoding="utf-8") as f:
