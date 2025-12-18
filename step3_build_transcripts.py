@@ -58,22 +58,19 @@ if __name__ == "__main__":
 
     print("Total processed meetings:", len(meetings))
     print("\nFirst 5 Records:")
+   
     for m in meetings[:5]:
         print("Meeting ID:", m["meeting_id"])
         print("City:", m["city"])
         print("Word count:", m["transcript_word_count"])
         print("Speaker count:", m["speaker_count"])
         print("Transcript preview:", m["full_transcript_text"][:200], "...\n")
+        
 
-        print("\nLast 5 Records:")
+    print("\nLast 5 Records:")  
     for m in meetings[-5:]:
         print("Meeting ID:", m["meeting_id"])
         print("City:", m["city"])
         print("Word count:", m["transcript_word_count"])
         print("Speaker count:", m["speaker_count"])
         print("Transcript preview:", m["full_transcript_text"][:200], "...\n")
-
-
-
-
-

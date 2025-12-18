@@ -7,7 +7,6 @@
 -- PART A: BEFORE INDEX (Baseline)
 -- --------------------------------
 
--- Drop index if exists (baseline test)
 DROP INDEX IF EXISTS idx_fact_city_id;
 
 -- Baseline query plan
@@ -27,7 +26,6 @@ GROUP BY dc.city_name;
 -- Create index for optimization
 CREATE INDEX idx_fact_city_id
 ON fact_meetings(city_id);
-
 -- Optimized query plan
 EXPLAIN ANALYZE
 SELECT

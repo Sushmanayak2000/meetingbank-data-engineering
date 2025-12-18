@@ -47,8 +47,12 @@ if __name__ == "__main__":
     meetings = read_and_filter_meetingbank()
 
     print("Total Boston & Seattle meetings:", len(meetings))
-    print("\nSample records:")
+    print("\nFirst 5 records:")
     for m in meetings[:5]:
+        print(m)
+
+    print("\nLast 5 records:")
+    for m in meetings[-5:]:
         print(m)
 
     # Save filtered data to JSON

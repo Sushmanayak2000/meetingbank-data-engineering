@@ -15,7 +15,7 @@ MeetingBank_Project/
 ├── .gitignore
 │
 ├── step1_read_meetingbank.py      # Load & filter MeetingBank dataset
-├── step2_read_meetingbank.py      # Clean and normalize raw data
+├── step2_filter_meetingbank.py      # Clean and normalize raw data
 ├── step3_build_transcripts.py     # Feature engineering (word & speaker counts)
 │
 ├── step4_load_mongodb.py          # Store full transcripts in MongoDB
