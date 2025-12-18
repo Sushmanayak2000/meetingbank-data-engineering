@@ -51,8 +51,8 @@ if __name__ == "__main__":
     for m in meetings[:5]:
         print(m)
 
-    # Save filtered data to JSONwith open(OUTPUT_JSON_PATH, "w", encoding="utf-8") as f:
-        
+    # Save filtered data to JSON
+
     with open(OUTPUT_JSON_PATH, "w", encoding="utf-8") as f:
         json.dump(meetings, f, indent=2, ensure_ascii=False)
 

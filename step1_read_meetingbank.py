@@ -16,7 +16,7 @@ def read_meetingbank():
     for meeting_id, meeting_data in data.items():
 
         # City name is part of meeting_id
-        city = meeting_id.split("_")[0]
+        city = meeting_id.split("_")[0]  #splits string into a list
 
         video_duration = meeting_data.get("VideoDuration")
 

@@ -4,7 +4,7 @@ import os
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 MEETINGBANK_JSON_PATH = os.path.join(BASE_DIR, "Data", "MeetingBank.json")
-
+TARGET_CITIES = ["BostonCC", "SeattleCityCouncil"]
 print("Connecting to MongoDB...")
 
 client = MongoClient("mongodb://localhost:27017/")
